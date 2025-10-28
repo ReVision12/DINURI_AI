@@ -1,4 +1,26 @@
 # DiNuri AI — FastAPI 백엔드
+> **AI Document Assistant for Seniors**  
+> “복잡한 서류, 이제 쉽게 이해하세요.”  
+
+---
+
+![Grand Prize](https://img.shields.io/badge/🏆_Grand_Prize-2025_AI_Hackathon-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/🚧_Coming_Soon-in_progress-orange?style=for-the-badge)
+
+---
+
+## 🏆 수상 이력
+
+**🎖️ 2025 캡스톤 디자인 및 AI 해커톤 경진대회 — 생성형 AI 활용 분야 대상**  
+주최: **사단법인 한국컴퓨터교육학회**  
+후원: **SK Broadband · Kakao · HANCOM InSpace · AhnLab · NEXV · 영림원소프트랩 · ValiantData 외**
+
+---
+
+## 프로젝트 개요
+
+**디누리(DiNuri)** 는 시니어 사용자를 위해  
+공공서류, 금융문서 등 복잡한 문서를 **읽고, 요약하고, 들려주는** AI 기반 서비스입니다.  
 
 **DiNuri AI**는 시니어를 위한 문서 해설 서비스입니다.  
 이미지 문서 → 텍스트 추출 → 요약 → 음성 변환을 한 번에 수행합니다.
