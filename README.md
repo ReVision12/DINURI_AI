@@ -1,4 +1,4 @@
-# 🧠 DiNuri AI — FastAPI 백엔드
+# DiNuri AI — FastAPI 백엔드
 
 **DiNuri AI**는 시니어를 위한 문서 해설 서비스입니다.  
 이미지 문서 → 텍스트 추출 → 요약 → 음성 변환을 한 번에 수행합니다.
